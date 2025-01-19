@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "logo": "ROVIER MENDES"
+  },
+  "intro": {
+    "heading": "Let’s redefine luxury <span class='italic'> together",
+    "icon": "/icons/intro-icon.svg"
+  },
+  "portrait": {
+    "image": "/portrait.png"
+  },
+  "about": {
+    "text": "Rovier Mendes is a faceless digital creator from Portugal, dedicated to curating a world of luxury and refinement. With a focus on exclusive hotels, gourmet dining, curated travel experiences, prestigious timepieces and high-end cars, he creates content that showcases the art of living well. Through his work, he collaborates with brands to inspire others to embrace a lifestyle of elegance and sophistication.",
+    "icon": "/icons/about-icon.svg"
+  },
+  "contact": {
+    "label": "Have some questions?",
+    "heading": "Contact <span class='italic'>me</span>",
+    "linkIcon": "/icons/arrow-icon.svg",
+    "email": "contact@rovmendes.com"
+  },
+  "work": {
+    "projects": [
+      {
+        "title": "Exclusive Experiences",
+        "url": "mailto:contact@rovmendes.com?subject=Exclusive%20Experience%20Partnership",
+        "media": "/work1.JPG"
+      },
+      {
+        "title": "Luxurious Getaways",
+        "url": "mailto:contact@rovmendes.com?subject=Luxury%20Stay%20Collaboration",
+        "media": "/work4.JPG"
+      },
+      {
+        "title": "Gastronomic Delights",
+        "url": "mailto:contact@rovmendes.com?subject=Fine%20Dining%20Collaboration",
+        "media": "/work2.JPG"
+      },
+      {
+        "title": "Timepieces & Motors",
+        "url": "mailto:contact@rovmendes.com?subject=Prestige%20Brand%20Partnership",
+        "media": "/work3.JPG"
+      }
+    ],
+    "linkIcon": "/icons/arrow-icon-black.svg"
+  },
+  "socials": {
+    "links": [
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/rovmendes/"
+      },
+      {
+        "title": "Pinterest",
+        "url": "https://pinterest.com/rovmendes"
+      },
+      {
+        "title": "TikTok",
+        "url": "https://tiktok.com/@rovmendes"
+      }
+    ]
+  }
+}
