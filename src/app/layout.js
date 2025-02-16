@@ -3,7 +3,7 @@ import Global from '@/components/Global';
 import './globals.css';
 
 export const metadata = {
-  title: 'ROVIER MENDES',
+  title: 'ROV MENDES',
 };
 
 const fontHeading = DM_Serif_Display({
