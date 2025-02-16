@@ -15,7 +15,7 @@ const fontHeading = DM_Serif_Display({
 });
 
 const fontBody = DM_Sans({
-  weight: ['400', '500'],
+  weight: ['300', '500'],
   style: 'normal',
   subsets: ['latin'],
   display: 'swap',
